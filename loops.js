@@ -18,5 +18,3 @@ function doWhileLoop(n){
   while (n >= 0)
   return "done"
 }
-
-

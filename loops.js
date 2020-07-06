@@ -9,3 +9,12 @@ function forLoop(array) {
   }
   return array
 }
+
+function whileLoop(n){
+  do {
+    console.log(n)
+    n = n-1
+  }
+  while (n >= 0)
+  return "done"  
+}
